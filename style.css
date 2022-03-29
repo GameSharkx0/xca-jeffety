@@ -60,3 +60,8 @@ body {
     font-size: 14px;
     text-decoration: none;
 }
+
+#geo-icon{
+    min-width: 24px;
+    min-height: 24px;
+}
